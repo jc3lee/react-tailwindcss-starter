@@ -6,11 +6,23 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        blue: colors.blue,
+        green: colors.green,
+        orange: colors.orange,
+        pink: colors.pink,
+        purple: colors.purple,
         red: colors.red,
+        teal: colors.teal,
+        yellow: colors.yellow,
       },
       fontFamily: {
-        "open": ["OpenSans",],
+        "lato": ["Lato",],
+        "lora": ["Lora",],
+        "merri": ["Merriweather",],
         "mont": ["Montserrat",],
+        "open": ["OpenSans",],
+        "rale": ["Raleway",],
+        "bot": ["Roboto",],
       },
     },
   },

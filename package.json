@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
+    "aos": "^2.3.4",
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "react": "^17.0.1",
@@ -16,6 +17,8 @@
     "react-router-dom": "^5.2.0",
     "react-router-hash-link": "^2.3.1",
     "react-scripts": "4.0.1",
+    "react-slick": "^0.28.0",
+    "rellax": "^1.12.1",
     "smoothscroll-polyfill": "^0.4.4",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "web-vitals": "^0.2.4"
